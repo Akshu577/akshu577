@@ -11,6 +11,7 @@ I work on **data analytics and machine learning, mostly for banking and finance*
 |---|---|---|
 | [credit-risk-model](https://github.com/akshu577/credit-risk-model) | Predicts loan default risk and picks the approval cutoff based on what bad loans actually cost (0.807 ROC-AUC) | Python, scikit-learn |
 | [card-settlement-reconciliation](https://github.com/akshu577/card-settlement-reconciliation) | The card reconciliation and dispute work I did at the bank, rebuilt in SQL: matches 20K transactions and classifies every break | SQL, Python |
+| [loan-default-prediction](https://github.com/Akshu577/loan-default-prediction) | Loan default risk with XGBoost, SHAP explanations and a Streamlit app for loan officers | XGBoost, SHAP, Streamlit |
 | [bank-policy-rag](https://github.com/akshu577/bank-policy-rag) | Q&A assistant over bank procedure documents that cites its sources (92% top-1 retrieval) | Python, RAG, Claude API |
 
 **Data analysis and machine learning**
