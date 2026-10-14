@@ -2,7 +2,7 @@
 
 I work on **data analytics and machine learning, mostly for banking and finance**. I started out in banking in Nepal: card operations, dispute handling and settlement reconciliation at Rastriya Banijya Bank, then branch operations at NCC Bank. Then I came to the US for a Master's in Computing & Information Systems (Youngstown State University, GPA 3.82, Graduate Certificate in Data Analytics). I'm now doing an **MS in Artificial Intelligence** at the University of the Cumberlands.
 
-📍 Charlotte, NC · Looking for **Data Analyst / Business Analyst / Risk & Operations Analyst** roles · [LinkedIn](https://www.linkedin.com/in/akshu-karki-419514334) · akshukarki@gmail.com
+📍 Charlotte, NC · Looking for **Data Analyst / Business Analyst / Risk & Operations Analyst** roles · [LinkedIn](https://www.linkedin.com/in/akshukarki) · akshukarki@gmail.com
 
 ## Projects
 
